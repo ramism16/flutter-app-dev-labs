@@ -1,0 +1,9 @@
+Create a new Flutter App and push the code to your GitHub repository
+Using Cards Widget in this assignment you have to load data from a JSON file "CMD_ID.json" in the assets directory.
+Output an AppBar with your name and picture
+Each Card should List the Semester you have studied in NUST SEECS
+Upon Tap/Click on each card, it should load the semester courses you had attended and your grades
+Use Animation for the transitions when possible and Scrollable widgets for semesters and the courses.
+The Ideal App should have 1 interface for the home and another 1 for the details. 
+For course grades between 1-2 GPA select red, 2-3 GPA select green and for 3-4 GPA select blue highlight.
+Upload a Recorded 2-minute YouTube video demonstrating code and your project output and upload it as submission along with your GitHub URL (You may update the GitHub to include the video URL in the readme of the project)

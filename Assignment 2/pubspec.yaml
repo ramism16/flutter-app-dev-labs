@@ -1,0 +1,55 @@
+name: assignment01
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  page_transition: ^1.1.7
+  splashscreen:
+    git:
+      url: https://github.com/ramism16/SplashScreenFlutterPackage
+      ref: master
+
+  cupertino_icons: 1.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/flutter-logo.png
+    - assets/224248.json
+    - assets/Ramis1.jpg
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/assets-and-images/#resolution-aware.
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  fonts:
+   - family: CenturyGothic
+     fonts:
+       - asset: assets/fonts/CenturyGothic.ttf
+       - asset: assets/fonts/CenturyGothicItalic.ttf
+         style: italic
+       - asset: assets/fonts/CenturyGothicBold.ttf
+         weight: 700
+
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages

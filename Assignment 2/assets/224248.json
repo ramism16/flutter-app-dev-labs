@@ -1,0 +1,144 @@
+{
+    "name" : "Ramis Mustafa",
+    "cms" : 224248,
+    "class" : 2021,
+    "batch" : 2017,
+    "section" : "BSCS-7A",
+    "cgpa" : 2.77,
+    "semesters" : [
+        "Fall 2017",
+        "Spring 2018",
+        "Fall 2018",
+        "Spring 2019",
+        "Fall 2019",
+        "Spring 2020",
+        "Fall 2020",
+        "Spring 2021"
+    ],
+    "courses" : [
+        [   
+            "CS100 Fundamentals of ICT" , 
+            "HU101 Islamic Studies", 
+            "CS110 Fundamentals of Computer Programming", 
+            "MATH161 Discrete Mathematics", 
+            "HU109 Communication Skills", 
+            "MATH111 Calculus-I"
+        ],
+        [
+            "CS212 Object Oriented Programming",
+            "HU107 Pakistan Studies",
+            "MGT164 Introduction to Management",
+            "EE221 Digital Logic Design",
+            "MATH112 Calculus-II",
+            "PHY101 Applied Physics"
+        ],
+        [
+            "HU212 Technical & Business Writing",
+            "MATH222 Linear Algebra",
+            "CS220 Database Systems",
+            "CS250 Data Structure and Algorithms",
+            "CS235 Computer Organization and Assembly Language"
+        ],
+        [
+            "EE321 Computer Architecture and Organization",
+            "CS334 Web Engineering",
+            "MATH361 Probability and Statistics",
+            "CS260 Human Computer Interaction",
+            "CS251 Design and Analysis of Algorithms"
+        ],
+        [
+            "SE200 Software Engineering",
+            "HU102 Psychology",
+            "CS330 Operating Systems",
+            "EE353 Computer Networks",
+            "CS213 Advanced Programming"
+        ],
+        [
+            "CS352 Theory of Automata and Formal Languages",
+            "HU222 Professional Ethics",
+            "FIN100 Principles of Accounting",
+            "MATH333 Numerical Analysis",
+            "EE433 Digital Image Processing",
+            "CS370 Artificial Intelligence"
+        ],
+        [
+            "ECO130 Engineering Economics",
+            "CS354 Compiler Construction",
+            "MGT271 Entrepreneurship",
+            "CS332 Distributed Computing()"
+        ],
+        [
+            "HU115 Principles of Sociology",
+            "EC303 Mobile Application Development",
+            "CS251 Design and Analysis of Algorithms"
+        ]
+    ],
+    "grades" : [
+        [
+            "A",
+            "B",
+            "B+",
+            "B+",
+            "B+",
+            "C"
+        ],
+        [
+           "B+",
+           "B",
+           "B+",
+           "B+",
+           "C+",
+           "B"
+        ],
+        [
+            "B+",
+            "B",
+            "B",
+            "B",
+            "B+"
+        ],
+        [
+            "C+",
+            "C+",
+            "A",
+            "B+",
+            "XF"
+        ],
+        [
+            "C",
+            "D",
+            "D",
+            "C",
+            "C"
+        ],
+        [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B+",
+            "B+"
+        ],
+        [
+            "C+",
+            "D+",
+            "B",
+            "C+"
+        ],
+        [
+            "-",
+            "-",
+            "-"
+        ]
+    ],
+    "gpas" : [
+        3.26,
+        3.18,
+        3.18,
+        2.50,
+        1.61,
+        3.20,
+        2.25,
+        -1.00
+    ]
+}
